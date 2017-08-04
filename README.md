@@ -1,6 +1,7 @@
 ## I Am The Light Application
 --AUTHOR: Reuben Ellis
---LICENSE: 
+
+--LICENSE: ISC
 
 This app is designed to allow users to be vulnerable and open up
 about topics the typically wouldn't share with strangers or people they know.
